@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThreadPoolExecutor Demo App</string>
+
+    <string-array name="rejection_mode">
+        <item>AbortPolicy</item>
+        <item>CallerRunsPolicy</item>
+        <item>CustomRejectionPolicy</item>
+    </string-array>
+
+</resources>
